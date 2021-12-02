@@ -1,2 +1,3 @@
 auto merge
+from server new line
 1
